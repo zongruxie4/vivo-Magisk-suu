@@ -1,3 +1,5 @@
+# time for magisk suu to retire.
+![](https://github.com/4accccc/randomstuffs/blob/main/execute%20su%20directly.jpeg?raw=true)
 # IMPORTANT NOTE: I(@4accccc) have no passion for this project anymore.@Winkmoon & @Nevoraa will take my place.
 # plz go and follow @Winkmoon & @Nevoraa :3
 
