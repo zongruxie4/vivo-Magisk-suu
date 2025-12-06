@@ -1,4 +1,4 @@
-# [KERNEL AUTO PATCH TOOL RELEASED](https://github.com/4accccc/vivo-4x-kernel-patch) 
+# [VIVO 4X KERNEL AUTO PATCH TOOL RELEASED](https://github.com/4accccc/vivo-4x-kernel-patch) 
 # time for magisk suu to retire.
 ![](https://github.com/4accccc/randomstuffs/blob/main/execute%20su%20directly.jpeg?raw=true)
 # IMPORTANT NOTE: I(@4accccc) have no passion for this project anymore.@Winkmoon & @Nevoraa will take my place.
